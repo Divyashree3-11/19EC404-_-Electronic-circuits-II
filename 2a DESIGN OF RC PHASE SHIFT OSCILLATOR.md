@@ -23,12 +23,11 @@
 
 
 # Sample images 
-
-
+<img width="855" height="350" alt="image" src="https://github.com/user-attachments/assets/5f7ca220-5507-4b04-8cc7-2b9114b3e6ff" />
 
 # Result
 
 Thus, the **RC Phase Shift Oscillator** was designed for the given frequency.
 
-- **(i) Theoretical Frequency:**  
-- **(ii) Practical Frequency:**  
+- **(i) Theoretical Frequency:**  3.12 KHZ
+- **(ii) Practical Frequency:**  5.8 KHz
