@@ -22,12 +22,21 @@
 
 # Tabulation
 
+![WhatsApp Image 2025-11-23 at 12 36 15_1d57717b](https://github.com/user-attachments/assets/73838bad-43a1-4071-bfa2-d1334822e0cd)
 
 # Graph
-
+![WhatsApp Image 2025-11-23 at 12 38 01_38e0f3e7](https://github.com/user-attachments/assets/27151e6f-1be2-4ecd-a389-472a3f5e24a1)
+![WhatsApp Image 2025-11-23 at 12 37 30_d73410e4](https://github.com/user-attachments/assets/3a30a0e8-cced-4bef-8917-fc086fe91eb4)
 
 # Sample images 
+DIFFERENTIATOR :
 
+<img width="775" height="621" alt="image" src="https://github.com/user-attachments/assets/c395a88c-585e-4d73-b6f5-45a3d103d28d" />
+
+INTEGRATOR :
+
+<img width="733" height="595" alt="image" src="https://github.com/user-attachments/assets/1a885bf4-b734-4ec5-96da-9913b681b194" />
 
 # Result
-
+Thus different linear wave shaping circuits are studied and their output waveforms
+are plotted.
