@@ -16,7 +16,13 @@
 
 
 # Graph
+POSITIVE CLAMPER :
 
+![WhatsApp Image 2025-11-25 at 17 57 36_e9ca3194](https://github.com/user-attachments/assets/86484704-e995-4d2b-99c1-171d986eef61)
+
+NEGATIVE CLAMPER : 
+
+![WhatsApp Image 2025-11-25 at 17 57 08_fd4495be](https://github.com/user-attachments/assets/85230342-21d4-4baa-b006-621d57da472f)
 
 # Sample images 
 
