@@ -32,8 +32,8 @@ Thus the voltage shunt feedback amplifier is designed and constructed  and the f
 | 1 | Lower cut-off frequency | =100Hz | =62 Hz |
 | 2 | Upper cut-off frequency | =11 KHz | =1.6 MHz |
 | 3 | Bandwidth | \( BW = fh - fl = 10880 \) | \( BW = f'h - f'l = 999.5 \) |
-| 4 | Mid-band Gain | \( A{v(mid)} = 23.9 \) | \( A'{v(mid)} = 23.5  \) |
-| 5 | Gain at half power point |20  | 20.1 |
+| 4 | Mid-band Gain | \( A{v(mid)} = 23.9 dB \) | \( A'{v(mid)} = 23.5 dB  \) |
+| 5 | Gain at half power point |20 dB | 20.1 dB |
 
 ---
 
