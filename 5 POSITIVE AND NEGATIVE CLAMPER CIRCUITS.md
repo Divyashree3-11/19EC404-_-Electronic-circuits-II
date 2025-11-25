@@ -13,7 +13,7 @@
 
 
 # Tabulation
-
+![WhatsApp Image 2025-11-25 at 18 14 20_9a3afa38](https://github.com/user-attachments/assets/186c3d13-4c3f-4b39-9462-964a550dd4b8)
 
 # Graph
 POSITIVE CLAMPER :
@@ -24,7 +24,5 @@ NEGATIVE CLAMPER :
 
 ![WhatsApp Image 2025-11-25 at 17 57 08_fd4495be](https://github.com/user-attachments/assets/85230342-21d4-4baa-b006-621d57da472f)
 
-# Sample images 
-
-
 # Result
+Hence,the operation of non-linear shaping circuit has been studied successfully
